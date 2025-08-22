@@ -1,0 +1,14 @@
+name: PowerShell-PowerUp
+id: ari:cloud:compass:eddcc978-84fc-448e-904c-0d4d7a6ccae6:component/dcebf165-b94d-4d6f-a806-e63f9a99f66a/71bd99e3-ad96-488a-b203-7ca4bfeeba2c
+description: PowerShell PowerUp
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links: []
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+  - synced-with-jsm
+customFields: null
